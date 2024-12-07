@@ -42,6 +42,7 @@
     <Reference Include="DevExpress.Printing.v24.1.Core" />
     <Reference Include="DevExpress.Drawing.v24.1" />
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
