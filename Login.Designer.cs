@@ -39,15 +39,16 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(200, 91);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(458, 207);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(60, 13);
+            this.label1.Size = new System.Drawing.Size(79, 17);
             this.label1.TabIndex = 0;
             this.label1.Text = "User Name";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(303, 83);
+            this.textBox1.Location = new System.Drawing.Point(558, 204);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(187, 20);
             this.textBox1.TabIndex = 1;
@@ -55,24 +56,26 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(203, 139);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(468, 244);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(53, 13);
+            this.label2.Size = new System.Drawing.Size(69, 17);
             this.label2.TabIndex = 2;
             this.label2.Text = "Password";
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(303, 131);
+            this.textBox2.Location = new System.Drawing.Point(558, 241);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(187, 20);
             this.textBox2.TabIndex = 3;
             // 
             // login1
             // 
-            this.login1.Location = new System.Drawing.Point(303, 198);
+            this.login1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.login1.Location = new System.Drawing.Point(558, 280);
             this.login1.Name = "login1";
-            this.login1.Size = new System.Drawing.Size(75, 23);
+            this.login1.Size = new System.Drawing.Size(125, 32);
             this.login1.TabIndex = 4;
             this.login1.Text = "Login";
             this.login1.UseVisualStyleBackColor = true;
@@ -91,7 +94,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackgroundImage = global::DXWindowsApp.Properties.Resources.hhh;
+            this.ClientSize = new System.Drawing.Size(1233, 507);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.login1);
             this.Controls.Add(this.textBox2);

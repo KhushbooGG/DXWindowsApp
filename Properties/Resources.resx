@@ -124,4 +124,7 @@
   <data name="abstract-luxury-clear-yellow-wall-well-use-as-backdrop-background-layout" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\abstract-luxury-clear-yellow-wall-well-use-as-backdrop-background-layout.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="hhh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hhh1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
